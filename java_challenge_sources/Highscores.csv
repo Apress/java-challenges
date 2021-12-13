@@ -1,0 +1,13 @@
+# Name, Punkte, Level, Datum 
+Matze,    1000,     7, 	 12.12.2009
+Peter,     985,     6,   11.11.2009
+ÄÖÜßöäü,   777,     5,   10.10.2009
+
+# Fehlender Datumswert 
+Peter,     985,     6
+
+# Falsches Format des Levels 
+Peter,     985,    A6,   11.11.2009
+
+# Fehlerhaftes Datumsformat
+Micha,     100,     1,   1/1/2001	

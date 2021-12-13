@@ -1,0 +1,9 @@
+# input,searchFor,expected
+xhixhix,x,3
+xhixhix,hi,2
+mic,mic,1
+haha,ho,0
+xxxxyz,xx,2
+xxxx,xx,2
+xx-xxx-xxxx-xxxxx-xxxxxx,xx,9
+xx-xxx-xxxx-xxxxx-xxxxxx,xxx,5
